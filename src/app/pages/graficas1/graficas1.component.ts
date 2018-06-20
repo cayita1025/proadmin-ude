@@ -25,13 +25,13 @@ export class Graficas1Component implements OnInit {
       'labels': ['Si', 'No'],
       'data':  [95, 5],
       'type': 'doughnut',
-      'leyenda': 'Aquienes ¿Le dan gases los frijoles?'
+      'leyenda': ' ¿Le dan gases los frijoles?'
     },
     'grafico4': {
       'labels': ['No', 'Si'],
       'data':  [85, 15],
       'type': 'doughnut',
-      'leyenda': 'Aquienes ¿Les importa que le den gases?'
+      'leyenda': '¿Le importa que le den gases?'
     },
   };
 

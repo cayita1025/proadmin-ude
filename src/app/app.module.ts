@@ -23,7 +23,6 @@ import { RegisterComponent } from './login/register.component';
     AppComponent,
     LoginComponent,
     RegisterComponent
-
   ],
   imports: [
     BrowserModule,

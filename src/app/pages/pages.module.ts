@@ -25,6 +25,8 @@ import { IncrementadorComponent } from '../components/incrementador/incrementado
 ///// Temporal2
 import { GraficodonaComponent } from '../components/graficodona/graficodona.component';
 import { AccoutSettingsComponent } from './accout-settings/accout-settings.component';
+import { PromesasComponent } from './promesas/promesas.component';
+import { RxjsComponent } from './rxjs/rxjs.component';
 
 
 
@@ -36,7 +38,9 @@ import { AccoutSettingsComponent } from './accout-settings/accout-settings.compo
         ProgressComponent,
         IncrementadorComponent,
         GraficodonaComponent,
-        AccoutSettingsComponent
+        AccoutSettingsComponent,
+        PromesasComponent,
+        RxjsComponent
     ],
     exports: [
         DashboardComponent,
